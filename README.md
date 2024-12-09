@@ -1,0 +1,2 @@
+# AmiiboFinder
+Created with CodeSandbox
